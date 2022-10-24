@@ -1,4 +1,4 @@
-  Olá viajante! Meu nome é Diogo diogodjr
+  Olá viajante! Meu nome é Diogo...
 
 - 👨‍💻 Estou trabalhando na Prime IT Solutions
 - 💻 Estudate de Ciência da Computação
