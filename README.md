@@ -1,7 +1,7 @@
   Olá viajante! Meu nome é Diogo...
 
 - 👨‍💻 Estou trabalhando na Prime IT Solutions
-- 💻 Estudate de Ciência da Computação
+- 💻 Estudante de Ciência da Computação
 - ☕ Estudando e trabalhando com Java 
 - 📫 contato: diogorodrigues.djr@gmail.com
 
