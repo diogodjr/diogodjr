@@ -2,7 +2,7 @@
 
 - 👨‍💻 Estou procurando uma nova oportunidade!
 - 💻 Estudante de Ciência da Computação
-- ☕ Estudando e trabalhando com Java 
+- ☕ Estudando e trabalhando com Java, JavaScript e CSS 
 - 📫 contato: diogorodrigues.djr@gmail.com
 
 <div align="center">
