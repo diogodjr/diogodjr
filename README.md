@@ -1,15 +1,8 @@
-  Olá viajante! Meu nome é Diogo...
-
 - 👨‍💻 Desenvolvedor Back-end 
 - 💻 Estudante de Ciência da Computação
 - ☕ Estudando e trabalhando com Python (FastAPI), C# e Java 
 - 📫 contato: diogorodrigues.djr@gmail.com
-
-<div align="center">
-  <a href="https://github.com/diogodjr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogodjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
+- 
 ##
 <div> 
   <a href="https://instagram.com/diogodjr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
